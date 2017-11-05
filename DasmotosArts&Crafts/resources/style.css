@@ -1,0 +1,54 @@
+/* Comment out since I am not using the code in the HTML
+#myTopnav {
+    background-color: aliceblue;
+    color: white;
+}
+*/
+
+h1, h2, h3, p {
+  font-family: Helvetica;
+}
+
+h1 {
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
+  text-align: center;
+  font-size: 100px;
+  font-weight: bold;
+  color: Khaki
+}
+
+/*  Comment out since I am not using the code in the HTML
+#item-nav {
+  background-color: aliceblue;
+}
+*/
+
+.item h2{
+  color: white;
+  font-weight: bold;
+  font-size: 32px;
+}
+
+.price {
+  color: blue;
+  font-weight: bold;
+}
+
+#brushes {
+  background-color: MediumSpringGreen;
+}
+
+#frames {
+  background-color: LightCoral;
+}
+
+#paint {
+  background-color: SkyBlue;
+}
+
+/* Formating for added contact section in the HTML */
+#contact {
+  background-color: DarkKhaki;
+  font-size: 15px;
+  color: white;
+}
